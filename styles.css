@@ -1,0 +1,3 @@
+* :not(.toolbar, .navbar, .warnings, .fineprint){
+    text-align: center;
+}
